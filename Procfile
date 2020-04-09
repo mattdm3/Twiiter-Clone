@@ -1,1 +1,1 @@
-web: cd client && yarn install && cd .. && cd server && yarn install && yarn start && cd .. & cd client && yarn start
+web: cd client && npm install && cd .. && cd server && npm install
