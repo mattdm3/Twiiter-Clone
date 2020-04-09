@@ -1,6 +1,4 @@
 {
-
-    "main": "server/index.js",
     "scripts": {
       "start": "nodemon server/index.js"
     }
